@@ -1,0 +1,2 @@
+org.springframework.integration.config.IntegrationConfigurationInitializer=\
+net.shad.rmqrx.RxInitializer
